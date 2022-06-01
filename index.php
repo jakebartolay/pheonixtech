@@ -5,15 +5,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PHEONIXTECH</title>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
+<!--CSS HERE-->
+<link href="css/style.css" rel="stylesheet">
+<link href="lib/bootstrap/css/bootstrap.min.css"  rel="stylesheet">
 </head>
 
 <body>
 
 <?php 
+include 'content/main-section.php';
+?>
+
+<?php 
 include 'content/section.php';
 ?>
-</body>
 
+<script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
 </html>
