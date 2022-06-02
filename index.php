@@ -15,7 +15,9 @@
 <?php 
 include 'content/header.php';
 ?>
-
+<?php 
+include 'content/main-section.php';
+?>
 <?php 
 include 'content/section.php';
 ?>
