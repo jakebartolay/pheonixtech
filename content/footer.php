@@ -107,7 +107,7 @@
 
                         <!-- Form submit button -->
                         <div class="d-grid">
-                            <button class="btn btn-info btn-lg disabled" id="submitButton" type="submit">Submit</button>
+                            <button class="btn btn-info btn-lg" id="submitButton" type="submit">Submit</button>
                         </div>
 
                     </form>
