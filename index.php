@@ -22,6 +22,10 @@ include 'content/main-section.php';
 include 'content/section.php';
 ?>
 
+<?php
+include 'content/footer.php';
+?>
+
 <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
