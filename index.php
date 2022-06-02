@@ -26,6 +26,7 @@ include 'content/section.php';
 include 'content/footer.php';
 ?>
 
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
