@@ -13,7 +13,7 @@
 <body>
 
 <?php 
-include 'content/main-section.php';
+include 'content/header.php';
 ?>
 
 <?php 

@@ -4,6 +4,9 @@
             <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
             PHEONIXTECH
         </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
         <ul class="nav">
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
