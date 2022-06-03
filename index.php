@@ -23,11 +23,15 @@
     include 'content/section.php';
     ?>
 
+
     <?php
     include 'content/footer.php';
     ?>
 
-
+    <?php
+    include 'content/backtotop.php';
+    ?>
+    <script src="js/main.js"></script>
     <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
