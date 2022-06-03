@@ -125,10 +125,10 @@
                         <p><i class="fas fa-map-marker-alt pe-2"></i>Warsaw, 57 Street, Poland</p>
                     </li>
                     <li>
-                        <p><i class="fas fa-phone pe-2"></i>+ 01 234 567 89</p>
+                        <p><i class="fas fa-phone pe-2"></i>+63 91 349 567 89</p>
                     </li>
                     <li>
-                        <p><i class="fas fa-envelope pe-2 mb-0"></i>contact@example.com</p>
+                        <p><i class="fas fa-envelope pe-2 mb-0"></i><u>jaketech@gmail.com</u></p>
                     </li>
                 </ul>
             </div>

@@ -1,8 +1,8 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-info sticky-top navbar-scroll">
-        <div class="container p-4">
+        <div class="container p-3">
             <a class="navbar-brand p-3 fw-bold" href="#">
-                <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+                <img src="lib/bootstrap/icons-1.8.3/icons/bootstrap.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
                 PHEONIXTECH
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg">
@@ -34,16 +34,12 @@
         </div>
     </nav>
     <div class="containerfluid">
-<div
-       id="intro"
-       class="bg-image"
-       style="
+        <div id="intro" class="bg-image" style="
               background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/royalty-free-background-image-17-920x518.jpg);
               height: 100vh;
               background-repeat: no-repeat;
               background-size: cover;
-              "
-       >
-  </div>
-</div>
+              ">
+        </div>
+    </div>
 </header>
