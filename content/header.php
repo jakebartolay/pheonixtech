@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent navbar-info sticky-top navbar-scroll">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-info sticky-top navbar-scroll">
         <div class="container p-4">
             <a class="navbar-brand p-3 fw-bold" href="#">
                 <img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
@@ -45,6 +45,5 @@
               "
        >
   </div>
-</div>
 </div>
 </header>
